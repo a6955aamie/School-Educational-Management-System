@@ -94,6 +94,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 4. 管理员用户管理，课程管理，通知管理
 
 #### 项目部分截图
+登录界面改成了一个动画，不要管这个图片
 ![登录界面](https://github.com/iiashin/student/blob/main/image/login.png)
 ![学生主界面](https://github.com/iiashin/student/blob/main/image/studenthome.png)
 ![学生课表](https://github.com/iiashin/student/blob/main/image/stucourse.png)
